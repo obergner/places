@@ -1,1 +1,1 @@
-# Jimdo Place REST API
+# Jimdo Places REST API
